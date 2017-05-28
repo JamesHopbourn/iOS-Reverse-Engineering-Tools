@@ -2,7 +2,7 @@
 
 ## Usage
 
-First,installing required software in Cydia.Install "APT 0.6 Transitional" and OpenSSH.If you are iOS 10.2 that OpenSSH is default install,so don't install OpenSSH again.
+First,installing required software in Cydia.Install "APT 0.6 Transitional" and “OpenSSH”.If you are iOS 10.2 that OpenSSH is default installed,so don't install OpenSSH again.
 
 Second,SSH to your device.
 Installation:
