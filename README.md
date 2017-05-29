@@ -18,8 +18,11 @@ apt-get install com.shmoopillc.flexible com.rheard.reveal-loader eu.heinelt.ifil
 Third,download tar compress.
 
 wget https://github.com/iOSteveReagan/iOS-Security-command-tools/raw/master/command.tar --no-check-certificate
+
 mv command.tar
+
 cd /
+
 tar -zxvf /command.tar 
 
 Done.
