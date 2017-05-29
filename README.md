@@ -10,10 +10,10 @@ Installation:
 <pre><code>apt-get update</code></pre>
 
 ### iOS 7.1.2
-<pre><code>apt-get install com.rheard.reveal-loader com.tigisoftware.filza com.saurik.afc2d net.limneos.classdump-dyld bigbosshackertools com.fuyuchi.flex2 com.codehex.whiteterminal com.saurik.substrate.safemode adv-cmds curl cycript odcctools developer-cmds dpkg file file-cmds findutils gawk git grep ldid less mobilesubstrate python nano netcat network-cmds sed shell-cmds sqlite3 syslogd system-cmds tcpdump top uikittools unrar unzip wget whois zip PreferenceLoader ldid</code></pre>
+<pre><code>apt-get install com.rheard.reveal-loader com.tigisoftware.filza com.saurik.afc2d bigbosshackertools com.codehex.whiteterminal com.saurik.substrate.safemode adv-cmds curl cycript odcctools developer-cmds dpkg file file-cmds findutils gawk git grep ldid less mobilesubstrate python nano netcat network-cmds sed shell-cmds sqlite3 syslogd system-cmds tcpdump top uikittools unrar unzip wget whois zip PreferenceLoader ldid</code></pre>
 
 ### iOS 8 and gen
-<pre><code>apt-get install com.shmoopillc.flexible com.rheard.reveal-loader com.tigisoftware.filza com.saurik.afc2d net.limneos.classdump-dyld bigbosshackertools com.fuyuchi.flex org.coolstar.iostoolchain com.autopear.installipa com.unlimapps.uaupdatetools  com.codehex.whiteterminal com.saurik.substrate.safemode adv-cmds curl cycript odcctools developer-cmds dpkg file file-cmds findutils gawk git grep ldid less mobilesubstrate python nano netcat network-cmds sed shell-cmds sqlite3 syslogd system-cmds tcpdump top uikittools unrar unzip wget whois zip make ldid PreferenceLoader</code></pre>
+<pre><code>apt-get install com.shmoopillc.flexible com.rheard.reveal-loader com.tigisoftware.filza com.saurik.afc2d bigbosshackertools com.fuyuchi.flex org.coolstar.iostoolchain com.autopear.installipa com.unlimapps.uaupdatetools  com.codehex.whiteterminal com.saurik.substrate.safemode adv-cmds curl cycript odcctools developer-cmds dpkg file file-cmds findutils gawk git grep ldid less mobilesubstrate python nano netcat network-cmds sed shell-cmds sqlite3 syslogd system-cmds tcpdump top uikittools unrar unzip wget whois zip make ldid PreferenceLoader</code></pre>
 
 Third,download tar compress.
 
