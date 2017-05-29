@@ -19,7 +19,7 @@ Third,download tar compress.
 
 <pre><code>wget https://github.com/iOSteveReagan/iOS-Security-command-tools/raw/master/command.tar --no-check-certificate
 
-mv command.tar
+mv command.tar /
 
 cd /
 
