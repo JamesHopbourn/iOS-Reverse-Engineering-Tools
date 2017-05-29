@@ -32,4 +32,4 @@ Done.
 Install "Command Line Tools for Xcode"
 <pre><code>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
-brew install hopper-disassembler reveal ifunbox imazing ios-app-signer burp-suite charles google-chrome beyond-compare impactor sublime-text2 paste xampp github-desktop surge alfred wireshark iterm2</code></pre>
+brew cask install hopper-disassembler reveal ifunbox imazing ios-app-signer burp-suite charles google-chrome beyond-compare impactor sublime-text2 paste xampp github-desktop surge alfred wireshark iterm2</code></pre>
