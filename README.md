@@ -8,10 +8,12 @@ Second,SSH to your device.
 Installation:
 
 apt-get update
+
 ### iOS 7.1.2
-apt-get install com.fuyuchi.flex2 com.rheard.reveal-loader eu.heinelt.ifile com.tigisoftware.filza com.saurik.afc2d net.limneos.classdump-dyld bigbosshackertools com.fuyuchi.flex org.coolstar.iostoolchain com.autopear.installipa com.unlimapps.uaupdatetools  com.codehex.whiteterminal com.saurik.substrate.safemode adv-cmds curl cycript odcctools developer-cmds dpkg file file-cmds findutils gawk git grep ldid less mobilesubstrate python nano netcat network-cmds sed shell-cmds sqlite3 syslogd system-cmds tcpdump top uikittools unrar unzip wget whois zip PreferenceLoader
+apt-get install com.rheard.reveal-loader eu.heinelt.ifile com.tigisoftware.filza com.saurik.afc2d net.limneos.classdump-dyld bigbosshackertools com.fuyuchi.flex2 com.autopear.installipa com.codehex.whiteterminal com.saurik.substrate.safemode adv-cmds curl cycript odcctools developer-cmds dpkg file file-cmds findutils gawk git grep ldid less mobilesubstrate python nano netcat network-cmds sed shell-cmds sqlite3 syslogd system-cmds tcpdump top uikittools unrar unzip wget whois zip PreferenceLoader org.coolstar.llvm-clang org.coolstar.ld64 make ldid
+
 ### iOS 8 and gen
-apt-get install com.shmoopillc.flexible com.rheard.reveal-loader eu.heinelt.ifile com.tigisoftware.filza com.saurik.afc2d net.limneos.classdump-dyld bigbosshackertools com.fuyuchi.flex org.coolstar.iostoolchain com.autopear.installipa com.unlimapps.uaupdatetools  com.codehex.whiteterminal com.saurik.substrate.safemode adv-cmds curl cycript odcctools developer-cmds dpkg file file-cmds findutils gawk git grep ldid less mobilesubstrate python nano netcat network-cmds sed shell-cmds sqlite3 syslogd system-cmds tcpdump top uikittools unrar unzip wget whois zip PreferenceLoader
+apt-get install com.shmoopillc.flexible com.rheard.reveal-loader eu.heinelt.ifile com.tigisoftware.filza com.saurik.afc2d net.limneos.classdump-dyld bigbosshackertools com.fuyuchi.flex org.coolstar.iostoolchain com.autopear.installipa com.unlimapps.uaupdatetools  com.codehex.whiteterminal com.saurik.substrate.safemode adv-cmds curl cycript odcctools developer-cmds dpkg file file-cmds findutils gawk git grep ldid less mobilesubstrate python nano netcat network-cmds sed shell-cmds sqlite3 syslogd system-cmds tcpdump top uikittools unrar unzip wget whois zip org.coolstar.llvm-clang org.coolstar.ld64 make ldidPreferenceLoader
 
 Third,download tar compress.
 
