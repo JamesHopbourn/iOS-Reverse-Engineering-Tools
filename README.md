@@ -30,7 +30,6 @@ Done.
 ## iOS Store Apps Recommand
 	[Surge](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637?mt=8)
 	[Workflow](https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334?mt=8)
-	[我的简介](/example/profile.md)
 
 
 ## Usage for OS X
@@ -38,6 +37,9 @@ Install "Command Line Tools for Xcode"
 <pre><code>xcode-select --install</code></pre>
 
 Install "Homebrew"
-<pre><code>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
-brew cask install hopper-disassembler reveal ifunbox imazing ios-app-signer burp-suite charles google-chrome beyond-compare impactor sublime-text2 paste xampp github-desktop surge alfred wireshark iterm2</code></pre>
+<pre><code>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"</code></pre>
+
+Install "Required Software"
+<pre><code>brew cask install hopper-disassembler reveal ifunbox imazing ios-app-signer burp-suite charles google-chrome beyond-compare impactor sublime-text2 paste xampp github-desktop surge alfred wireshark iterm2</code></pre>
+
 
