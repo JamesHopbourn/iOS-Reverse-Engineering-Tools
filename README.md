@@ -28,8 +28,8 @@ tar -zxvf /command.tar </code></pre>
 Done.
 
 ## iOS Store Apps Recommand
-	- [Surge](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637?mt=8)
-	- [Workflow](https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334?mt=8)
+	[Surge](https://itunes.apple.com/us/app/surge-web-developer-tool-proxy/id1040100637?mt=8)
+	[Workflow](https://itunes.apple.com/us/app/workflow-powerful-automation-made-simple/id915249334?mt=8)
 
 
 ## Usage for OS X
