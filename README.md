@@ -42,4 +42,9 @@ Install "Homebrew"
 Install "Required Software"
 <pre><code>brew cask install hopper-disassembler reveal ifunbox imazing ios-app-signer burp-suite charles google-chrome beyond-compare impactor sublime-text2 paste xampp github-desktop surge alfred wireshark iterm2</code></pre>
 
+Git clone the Repositorie and mv  OS X command tools to /User/you floder.
+<pre><code>
+git clone https://github.com/iOSteveReagan/iOS-Reverse-Engineering-Tools.git
 
+
+</code></pre>
