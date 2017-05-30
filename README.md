@@ -27,9 +27,18 @@ tar -zxvf /command.tar </code></pre>
 
 Done.
 
+## iOS Store Apps Recommand
+	- Surge
+	- Workflow
+
 
 ## Usage for OS X
 Install "Command Line Tools for Xcode"
-<pre><code>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+<pre><code>xcode-select --install</code></pre>
 
+Install "Homebrew"
+<pre><code>/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 brew cask install hopper-disassembler reveal ifunbox imazing ios-app-signer burp-suite charles google-chrome beyond-compare impactor sublime-text2 paste xampp github-desktop surge alfred wireshark iterm2</code></pre>
+
+
+
