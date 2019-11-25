@@ -1,4 +1,5 @@
-#By:iblue http://iosre.com/u/iblue/summary 所下载的文件仅供逆向工程研究使用。
+#!/usr/bin/python
+#coding:utf-8
 import urllib.request
 import urllib.parse
 import re
